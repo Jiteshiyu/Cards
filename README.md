@@ -22,9 +22,9 @@ The Cards Project is a responsive web application designed to showcase a collect
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-
+   ``` bash
    git clone https://github.com/Jiteshiyu/Cards.git
-   
+   ```
 2. Navigate to the project directory.
 
 3. Open the `index.html` file in your web browser.
@@ -51,5 +51,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 1. Follow the coding standards and best practices.
 2. Ensure that your code is well-documented.
 3. Test your changes before submitting a pull request.
+
+---
 
 Thank you for checking out the Cards Project! I hope you enjoy exploring the beauty of nature through this interactive experience.
