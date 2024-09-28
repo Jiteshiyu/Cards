@@ -51,7 +51,7 @@ body {
   display: flex;
   flex-direction: column;
   border-radius: 0.3rem;
-  border: 1px solid #000;
+  border: 1.5px solid #000;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -60,7 +60,7 @@ body {
   position: relative;
   overflow: hidden;
   height: 8rem;
-  border-bottom: 1px solid #000;
+  border-bottom: 1.5px solid #000;
 }
 
 .card-image {
