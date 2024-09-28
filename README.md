@@ -1,8 +1,8 @@
-# Cards Project
+# Deckdesign
 
 ## Overview
 
-The Cards Project is a responsive web application designed to showcase a collection of visually appealing cards that highlight various elements of nature and wildlife. Each card features a striking image accompanied by a title, description, and a call-to-action button. This project demonstrates design skills and responsiveness, making it suitable for various devices.
+The Deckdesign Project is a responsive web application designed to showcase a collection of visually appealing cards that highlight various elements of nature and wildlife. Each card features a striking image accompanied by a title, description, and a call-to-action button. This project demonstrates design skills and responsiveness, making it suitable for various devices.
 
 ## Features
 
@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ``` bash
-   git clone https://github.com/Jiteshiyu/Cards.git
+   git clone https://github.com/Jiteshiyu/Deckdesign.git
    ```
 2. Navigate to the project directory.
 
