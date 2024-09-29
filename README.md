@@ -14,9 +14,8 @@ A Responsive CARDS project.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (if applicable in the future)
+- HTML5: Structure and Content of the application.
+- CSS3: Styling and layout for a clean user interface.
 
 ## Installation
 
