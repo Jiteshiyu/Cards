@@ -1,8 +1,9 @@
 # Deckdesign
 
-## Overview
+A Responsive CARDS project.
 
-The Deckdesign Project is a responsive web application designed to showcase a collection of visually appealing cards that highlight various elements of nature and wildlife. Each card features a striking image accompanied by a title, description, and a call-to-action button. This project demonstrates design skills and responsiveness, making it suitable for various devices.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Features
 
@@ -25,13 +26,16 @@ To run this project locally, follow these steps:
    ``` bash
    git clone https://github.com/Jiteshiyu/Deckdesign.git
    ```
+   
 2. Navigate to the project directory.
 
 3. Open the `index.html` file in your web browser.
 
 ## Usage
 
-Once the project is opened in a browser, you will see a header with the project title and description, followed by a series of cards. Each card contains:
+Once the project is opened in a browser, you will see a header with the project title and description, followed by a series of cards.
+
+Each card contains:
 
 - An image representing an element of nature or wildlife.
 - A title describing the element.
@@ -40,18 +44,10 @@ Once the project is opened in a browser, you will see a header with the project 
 
 Clicking the "Learn More" button can be linked to additional content or details in the future.
 
-## Website view
+## Support
+Give a 🌟 to this repo if you liked it .
 
-![Cards Website](https://github.com/user-attachments/assets/3f5354cb-41e1-442d-94c7-650285505ba7)
+Connect with me
 
-## Contributing
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@JiteshKumar&color=success&logo=linkedin&style=for-the-badge&logoColor=white&colorA=blue)](https://www.linkedin.com/in/jitesh-kumar-93742a322/) [![Github](https://img.shields.io/static/v1.svg?label=follow&message=@Jiteshiyu&color=grey&logo=github&style=for-the-badge&logoColor=white&colorA=black)](https://www.github.com/Jiteshiyu/)
 
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Make sure to adhere to the following guidelines:
-
-1. Follow the coding standards and best practices.
-2. Ensure that your code is well-documented.
-3. Test your changes before submitting a pull request.
-
----
-
-Thank you for checking out the Cards Project! I hope you enjoy exploring the beauty of nature through this interactive experience.
