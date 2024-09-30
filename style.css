@@ -9,8 +9,8 @@
 body {
   height: 100%;
   width: 100%;
-  background-color: #f4f4f4;
   font-family: Arial, sans-serif;
+  background: linear-gradient(#c6e1f9, #c9e0f4);
 }
 
 /* Main container */
@@ -18,7 +18,6 @@ body {
   width: 85%;
   margin: 0 auto;
   padding: 1rem 2rem;
-  background: linear-gradient(#c6e1f9, #c9e0f4);
 }
 
 /* Header styles */
