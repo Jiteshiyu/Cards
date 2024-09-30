@@ -10,7 +10,7 @@ body {
   height: 100%;
   width: 100%;
   font-family: Arial, sans-serif;
-  background-color: #444;
+  background-color: #f4f4f4;
 }
 
 /* Main container */
@@ -51,7 +51,6 @@ body {
 .card-container {
   display: flex;
   flex-direction: column;
-  background-color: #f4f4f4;
   border-radius: 0.3rem;
   border: 1.5px solid #000;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
