@@ -18,8 +18,8 @@ You can view a live demo of the project [here](https://deckdesign.netlify.app/).
 
 ## Technologies Used
 
-- HTML5: Structure and Content of the application.
-- CSS3: Styling and layout for a clean user interface.
+- HTML5
+- CSS3
 
 ## Installation
 
