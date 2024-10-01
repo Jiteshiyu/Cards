@@ -1,11 +1,11 @@
-/* Reset default margin and padding */
+/* Reset Styles */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Body styles */
+/* Body Styles */
 body {
   height: 100%;
   width: 100%;
@@ -13,14 +13,14 @@ body {
   background-color: #f4f4f4;
 }
 
-/* Main container */
+/* Main Container Styles */
 .main-container {
   width: 85%;
   margin: 0 auto;
   padding: 1rem 2rem;
 }
 
-/* Header styles */
+/* Header Styles */
 .header {
   text-align: center;
   margin-bottom: 2rem;
@@ -38,7 +38,7 @@ body {
   font-size: 1.2rem;
 }
 
-/* Card container */
+/* Card Container Styles */
 .container {
   display: grid;
   gap: 2rem;
@@ -47,7 +47,7 @@ body {
   margin-bottom: 1rem;
 }
 
-/* Card styles */
+/* Card Styles */
 .card-container {
   display: flex;
   flex-direction: column;
@@ -56,7 +56,7 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Card header */
+/* Card Header Styles */
 .card-header {
   position: relative;
   overflow: hidden;
@@ -74,7 +74,7 @@ body {
   border-top-right-radius: 0.3rem;
 }
 
-/* Card content */
+/* Card Content Styles */
 .card-content {
   padding: 1rem;
 }
@@ -100,13 +100,13 @@ body {
   color: #555;
 }
 
-/* Card footer */
+/* Card Footer Styles */
 .card-footer {
   padding: 1rem;
   text-align: center;
 }
 
-/* Button styles */
+/* Button Styles */
 .card-button {
   background-color: #007fdb;
   color: #fff;
@@ -117,7 +117,7 @@ body {
   font-size: 1rem;
 }
 
-/* Button hover effect */
+/* Button Hover Effect */
 .card-button:hover {
   background-color: #0056b3;
 }
