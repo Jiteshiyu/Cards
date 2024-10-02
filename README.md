@@ -7,7 +7,7 @@ A Responsive CARDS project.
 
 ## Demo
 
-You can view a live demo of the project [here](https://deckdesign.netlify.app/).
+You can view a live demo of the project [Deckdesign](https://deckdesign.netlify.app/).
 
 ## Features
 
