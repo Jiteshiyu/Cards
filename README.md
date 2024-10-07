@@ -1,6 +1,6 @@
 # Deckdesign
 
-A Responsive CARDS project.
+Deckdesign is a responsive card-based application. It features a modern user interface with interactive components, ensuring optimal engagement and accessibility across various screen sizes.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,7 +14,6 @@ You can view a live demo of the project [Deckdesign](https://deckdesign.netlify.
 - Responsive design using CSS Grid to adapt to different screen sizes.
 - Interactive cards that provide an engaging user experience.
 - Clean and modern UI with visually appealing imagery and typography.
-- Easy to navigate and read content that highlights nature and wildlife.
 
 ## Technologies Used
 
